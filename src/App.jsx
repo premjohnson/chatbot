@@ -19,7 +19,7 @@ function App() {
       {/* Right Side: Mainbot Component */}
       <div className="w-full md:w-5/6 p-4 relative overflow-hidden" >
         <img
-          src="/Govt.png"
+          src="/friendly-chatbot.jpg"
           alt="Image"
           style={{
             width: '28%',
